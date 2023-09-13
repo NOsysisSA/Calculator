@@ -1,12 +1,13 @@
-import Header from "./Components/Header/Header"
 import Content from "./Components/Content/Content"
-import Footer from "./Components/Footer/Footer"
+import './Components/Content/style.css'
+
+
 function App() {
   return (
-    <div>
-      <Header/>
+    <div className="main">
+      
       <Content/>
-      <Footer/>
+      
     </div>
   )
 }

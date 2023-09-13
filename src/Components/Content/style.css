@@ -1,0 +1,16 @@
+button,p{
+    font-size: 40px;
+}
+input{
+    font-size: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calc{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
